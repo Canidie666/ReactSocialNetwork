@@ -1,0 +1,12 @@
+.Header img {
+    width: 200px;
+    clip-path: circle(27%);
+    margin-left: 20px;
+}
+
+.Header {
+    grid-area: h;
+    background-color: black;
+
+
+}

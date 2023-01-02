@@ -1,0 +1,9 @@
+.NavBar {
+    grid-area: n;
+    margin-left: 20px;
+    width: 150px;
+    height: 668px;
+    padding: 30px;
+    
+    
+}
